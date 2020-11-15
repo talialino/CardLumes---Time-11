@@ -1,0 +1,20 @@
+[
+    {
+      "cpf":"85968745236",
+      "months": [
+        {
+          "monthName":"maio",
+          "value":"50",
+          "kwh":"70",
+          "weeks":{
+            "one":"yellow",
+            "two":"red1",
+            "three":"yellow",
+            "four":"red2"
+          }
+        }
+      ],
+      "points":"65"
+    }
+  ]
+  
