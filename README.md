@@ -1,7 +1,7 @@
 # CardLumes---Time-11
 
 
-### Essa API foi feita para o [Mega Hack 5.0!!](https://www.megahackwomen.com.br/resultado/)
+### Essa API foi feita para o [Mega Hack 5.0!!](https://www.megahack.com.br/embaixadores/)
 
  #### O que tem nessa API:
  - [x] Dados dos clientes da CPFL
